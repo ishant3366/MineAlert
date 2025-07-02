@@ -1,8 +1,8 @@
 # MineAlert
-AI and IoT-Integrated Autonomous Mine Detection : AI-powered drone for autonomous landmine detection using multi-sensor fusion and real-time monitoring. Integrates Twilio for instant SMS alerts upon detection, enhancing safety and efficiency.
+AI Integrated Autonomous Mine Detection : AI-powered autonomous landmine detection using multi-sensor fusion and real-time monitoring. Integrates Twilio for instant SMS alerts upon detection, enhancing safety and efficiency.
 
 Overview : 
-This project aims to revolutionize landmine detection using AI-integrated drones equipped with multi-sensor fusion and real-time monitoring. By leveraging machine learning models like YOLOv8 and Faster R-CNN, the drone autonomously detects landmines, reducing human risk and improving accuracy. Once a landmine is detected, Twilio sends an instant SMS notification to alert the user.
+This project aims to revolutionize landmine detection using AI-integrated detection equipped with multi-sensor fusion and real-time monitoring. By leveraging machine learning models like YOLOv8 and Faster R-CNN, the drone autonomously detects landmines, reducing human risk and improving accuracy. Once a landmine is detected, Twilio sends an instant SMS notification to alert the user.
 
 Features : 
 ✅ AI-Powered Detection – Uses YOLOv8 and computer vision for accurate landmine identification.
